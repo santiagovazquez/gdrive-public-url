@@ -1,0 +1,26 @@
+{
+  "name": "gdrive-public-url",
+  "version": "1.0.0",
+  "description": "Get a public gdrive url",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.1.2",
+    "react": "16.11.0",
+    "react-dom": "16.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagovazquez/gdrive-public-url.git"
+  },
+  "author": "Santiago Vazquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santiagovazquez/gdrive-public-url/issues"
+  },
+  "homepage": "https://github.com/santiagovazquez/gdrive-public-url#readme"
+}
